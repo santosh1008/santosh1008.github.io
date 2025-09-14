@@ -1,0 +1,22 @@
+title: "Santhosh Tolle"
+description: "Insights, learnings, and articles on SOC, cybersecurity, and more."
+baseurl: ""
+url: "https://santosh1008.github.io"
+
+theme: minima
+
+nav_pages:
+  - name: "Home"
+    url: "/"
+  - name: "Blog"
+    url: "/blog/"
+  - name: "About"
+    url: "/about/"
+  - name: "Contact"
+    url: "/contact/"
+
+paginate: 5
+
+author:
+  name: "Santhosh Tolle"
+  email: "your-email@example.com"
